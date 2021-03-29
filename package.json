@@ -1,0 +1,20 @@
+{
+	"name": "life-helper-config",
+	"version": "1.0.0",
+	"description": "「我的个人助手」项目的配置文件",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/inlym/life-helper-config.git"
+	},
+	"keywords": [],
+	"author": "inlym",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/inlym/life-helper-config/issues"
+	},
+	"homepage": "https://github.com/inlym/life-helper-config#readme"
+}
